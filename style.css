@@ -1,0 +1,31 @@
+
+
+.container 
+{
+  margin-top: 50px;
+  font-family: "Open Sans Condensed", sans-serif;
+  background: rgb(241, 228, 228);
+  border-radius: 5px;
+}
+.get-jokes 
+{
+  margin-left: 20px;
+}
+h2 
+{
+  padding: 10px;
+  color: rgb(0, 0, 0);
+}
+#get-joke 
+{
+  margin-block-start: 2px;
+}
+.jokes 
+{
+  font-family: "PT Sans", sans-serif;
+  padding: 15px;
+}
+body 
+{
+  background: rgba(39, 38, 38, 0.795);
+}
